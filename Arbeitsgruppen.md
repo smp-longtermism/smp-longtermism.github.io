@@ -1,3 +1,13 @@
+---
+layout: default
+---
+
+<div class="menu">
+<button class="menuitem" onclick="window.location = 'index.html'">Startseite</button>
+<button class="menuitem" onclick="window.location = 'Hintergrund.html'">Hintergrund</button>
+<button class="menuitem" onclick="window.location = 'Programm.html'">Programm</button>
+</div>
+
 # Arbeitsgruppen
 
 ## Arbeitsgruppe 1: Planetare Grenzen – Klimakrise und Artensterben

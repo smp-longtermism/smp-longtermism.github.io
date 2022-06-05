@@ -1,3 +1,13 @@
+---
+layout: default
+---
+
+<div class="menu">
+<button class="menuitem" onclick="window.location = 'index.html'">Startseite</button>
+<button class="menuitem" onclick="window.location = 'Hintergrund.html'">Hintergrund</button>
+<button class="menuitem" onclick="window.location = 'Arbeitsgruppen.html'">Arbeitsgruppen</button>
+</div>
+
 # Programm
 
 Das Seminar wird am Wochenende des 26.-28.08.2022 in Frankfurt am Main, genauer in der DJH Jugendherberge Frankfurt stattfinden.
@@ -20,6 +30,7 @@ Den inhaltlichen Abschluss unseres Seminars bildet ein gemeinsames Plenum, in de
 **Ort**: DJH Jugendherberge Frankfurt; Deutschherrnufer 12 60594 Frankfurt
 
 **Kosten**:
+
 | Eigenbeteiligung	                            | Ohne Übernachtung	  |  Mit Übernachtung |
 |-----------------------------------------------|---------------------|----------------|
 | StipendiatIn der Studienstiftung	            | 30 €	              |  40 € |

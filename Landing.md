@@ -1,15 +1,25 @@
+---
+layout: default
+---
+
 ## Safeguarding Humanity's Longterm Future
 
 **Wann**: 26.-28. August 2022
+
 **Wo**: Jugendherberge Frankfurt am Main
+
 **Wer**: 70 Stipendiat\*innen und Externe aller Fachbereiche und Studienabschnitte
+
 **Eigenbeteiligung**:
 ERGÄNZEN
 
 **Organisationsteam**:
+
 Moritz Adam (Heidelberg), Roman Doll (Heidelberg), Tanja He (Heidelberg), Peter Schuh (Mannheim), Ricarda Seitz (Mannheim) und Roman Wetenkamp (Mannheim)
 
-**Kontakt**: smp punkt longterm punkt future at gmail punkt com
+**Kontakt**: 
+smp punkt longterm punkt future at gmail punkt com
+
 **Anmeldung**:
 
 

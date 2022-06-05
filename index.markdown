@@ -3,9 +3,9 @@ layout: default
 ---
 
 <div class="menu">
-<button class="menuitem">Hintergrund</button>
-<button class="menuitem">Programm</button>
-<button class="menuitem">Arbeitsgruppen</button>
+<button class="menuitem" onclick="window.location = 'Hintergrund.html'">Hintergrund</button>
+<button class="menuitem" onclick="window.location = 'Programm.html'">Programm</button>
+<button class="menuitem" onclick="window.location = 'Arbeitsgruppen.html'">Arbeitsgruppen</button>
 </div>
 
 # Wie können wir die Interessen zukünftiger Generationen in unserem Handeln bestmöglichst berücksichtigen?

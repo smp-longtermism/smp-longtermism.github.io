@@ -1,3 +1,14 @@
+---
+layout: default
+---
+
+<div class="menu">
+<button class="menuitem" onclick="window.location = 'index.html'">Startseite</button>
+<button class="menuitem" onclick="window.location = 'Programm.html'">Programm</button>
+<button class="menuitem" onclick="window.location = 'Arbeitsgruppen.html'">Arbeitsgruppen</button>
+</div>
+
+# Hintergrund
 ## Existentielle Risiken und die Grundlagen des Longtermism
 
 Hier beschreiben wir die grundlegende Idee des Konzepts von Longtermism. Eine Beschreibung der einzelnen Arbeitsgruppen findest du [hier](/Arbeitsgruppen.md). Für eine detaillierte Einführung ins Thema bietet insbesondere Toby Ord's Buch *"The Precipice: Existential Risk and the Future of Humanity"*, aber zum Beispiel auch die unten zitierte Präsentation von Will MacAskill *"What we owe the future"*.
