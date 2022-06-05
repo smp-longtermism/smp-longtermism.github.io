@@ -8,32 +8,27 @@ layout: default
 <button class="menuitem" onclick="window.location = 'Arbeitsgruppen.html'">Arbeitsgruppen</button>
 </div>
 
-# Wie können wir die Interessen zukünftiger Generationen in unserem Handeln bestmöglichst berücksichtigen?
-Dieser Frage und vielen weiteren möchten wir uns mit dir auf unserem SmP mit dem Titel **"Safeguarding Humanities Longterm Future"** widmen!
-In fünf Arbeitsgruppen zu verschiedenen hochrelevanten Themen wie AI, Biorisiken oder zukünftigen Wirtschaftssystemen werden wir das Konzept "Longtermism" auf der Suche nach Handlungsmaximen kritisch diskutieren. Angeleitet und unterstützt werden wir dabei durch hochkarätige Dozierende aus den Forschungsfeldern.
+## Zukünftige Generationen und deren Interessen sind moralisch bedeutsam. Die Menschheit steckt in ihren Kinderschuhen. Die Anzahl in der Zukunft lebender Menschen ist potentiell ungeheuer groß. Unser Handeln heute beeinflusst zukünftige Generationen.
 
-## Forschungsfragen
-Die zentralen Forschungsfragen, an denen wir unser Seminar ausrichten möchten, sind:
-- Ist die Idee des Longtermism ein moralisch und empirisch tragbares Normenkonzept bzw. ein anwendungsorientiertes Zukunftsnarrativ?
-- Welche wissenschaftlich stichhaltigen und realisierbaren Maßnahmen können wir nach der Idee des Longtermism für Individuum und Gesellschaft ableiten?
+<br>
 
-## Wann, wo, wie?
-Unser Seminar findet vom **26.08.2022** bis **28.08.2022** in **Frankfurt (Main)** statt.
+|---------|--------------------------|
+|**Wann:** | 26. - 28. August 2022 |
+| **Wo:** | Jugendherberge Frankfurt am Main |
+| **Wer:** |70 Stipendiat\*innen und Externe aller Fachbereiche und Studienabschnitte |
+| **Eigenbeteiligung:** | Zwischen 30 und 100 €, siehe [Programm](Programm.html)|
+| **Organisationsteam:** | Moritz Adam (Heidelberg), Roman Doll (Heidelberg), Tanja He (Heidelberg), Peter Schuh (Mannheim), Ricarda Seitz (Mannheim) und Roman Wetenkamp (Mannheim) |
+| **Kontakt:** | smp . longterm . future (at) gmail . com |
+| **Anmeldung:** | <button class="button_orange" onclick="window.location='https://forms.gle/Ggu1Do9M42nZZ3ru5'">> Link zur Anmeldung</button> |
 
-Es ist offen für alle Stipendiat*innen der Studienstiftung des deutschen Volkes, ihre Alumni und auch für andere Interessierte. Studien- und Berufsabschnitte und Vorerfahrungen spielen keine Rolle!
+### Abstract/Kurzbeschreibung
 
-Es fällt eine Teilnahmegebühr an. Mehr Informationen dazu findest du unter [Programm](/programm).
+Im 21. Jahrhundert und darüber hinaus sieht sich die globalisierte menschliche Gesellschaft zunehmend existentiellen Bedrohungen gegenüber. Um diesen Risiken langfristig zu begegnen, benötigt die Menschheit grundlegende Konzepte, die ihr langfristiges Überleben sicherstellen  und ein nachhaltig gutes Leben für zukünftige Generationen ermöglichen. Longtermism ist ein ethisch motivierter und anwendungsorientierter Ansatz, der sich zum Ziel setzt, eine sichere Basis für den langfristigen Fortbestand der Menschheit zu schaffen. Im Rahmen unseres SmP-Seminars möchten wir uns kritisch mit diesem Ansatz auseinandersetzen und auf wissenschaftlicher Basis zukunftsorientierte Maßnahmen diskutieren. Unsere Leitfragen sind dabei:
+Ist die Idee des Longtermism ein moralisch und empirisch tragbares Normenkonzept bzw. ein anwendungsorientiertes Zukunftsnarrativ?
+Welche wissenschaftlich stichhaltigen und realisierbaren Maßnahmen können wir nach der Idee des Longtermism für Individuum und Gesellschaft ableiten?
+Wir diskutieren diese Fragen sowohl in Plenarpräsentationen und -diskussionen, als auch in Arbeitsgruppen, die sich mit konkreten Zukunftsherausforderungen der Menschheit auseinandersetzen.
 
-<div class="center"><bR>
-<button class="button_orange" onclick="window.location='https://www.rwetenkamp.de/test.php'">> Link zur Anmeldung</button>
-</div>
-
-## Organisationsteam
-Wir sind fünf Stipendiat*innen unterschiedlichster Fachrichtungen aus Mannheim und Heidelberg:
-
-**Moritz Adam, Roman Doll, Tanja He, Peter Schuh, Ricarda Seitz und Roman Wetenkamp**
-
-## Veranstaltungsformat
+### Veranstaltungsformat
 Unser Seminar findet im Rahmen der Reihe "Stipendiat*innen machen Programm" der Studienstiftung des deutschen Volkes statt.
 <div class="center">
 <img src="assets\stustigif.gif">

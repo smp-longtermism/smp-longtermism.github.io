@@ -18,10 +18,10 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Safeguarding Humanities Longterm Future
+title: Safeguarding Humanity's Longterm Future
 email: smp.longterm.future@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Ein SmP der Studienstiftung des deutschen Volkes vom 26.-28.08.2022 in Frankfurt am Main.
+  Ein SmP der Studienstiftung des deutschen Volkes vom 26. - 28.08.2022 in Frankfurt am Main.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
