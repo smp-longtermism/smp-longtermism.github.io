@@ -3,11 +3,11 @@
 	"file": "style.css",
 	"sources": [
 		"style.scss",
-		"../../../../../../AppData/Local/Temp/jekyll-remote-theme-20220605-21592-g5ijbn/_sass/cayman.scss",
-		"../../../../../../AppData/Local/Temp/jekyll-remote-theme-20220605-21592-g5ijbn/_sass/jekyll-theme-cayman.scss",
-		"../../../../../../AppData/Local/Temp/jekyll-remote-theme-20220605-21592-g5ijbn/_sass/normalize.scss",
-		"../../../../../../AppData/Local/Temp/jekyll-remote-theme-20220605-21592-g5ijbn/_sass/rouge-github.scss",
-		"../../../../../../AppData/Local/Temp/jekyll-remote-theme-20220605-21592-g5ijbn/_sass/variables.scss"
+		"../../../../../../AppData/Local/Temp/jekyll-remote-theme-20220605-20216-42d0i9/_sass/cayman.scss",
+		"../../../../../../AppData/Local/Temp/jekyll-remote-theme-20220605-20216-42d0i9/_sass/jekyll-theme-cayman.scss",
+		"../../../../../../AppData/Local/Temp/jekyll-remote-theme-20220605-20216-42d0i9/_sass/normalize.scss",
+		"../../../../../../AppData/Local/Temp/jekyll-remote-theme-20220605-20216-42d0i9/_sass/rouge-github.scss",
+		"../../../../../../AppData/Local/Temp/jekyll-remote-theme-20220605-20216-42d0i9/_sass/variables.scss"
 	],
 	"sourcesContent": [
 		"@import \"cayman\";\n\n.page-header {\n\tbackground-color: #f7a600;\n\tbackground-image: none;\n}\n\n.main-content h1, .main-content h2, .main-content h3, .main-content h4 {\n\tcolor: #000000;\n}\n\n.main-content {\n\tmin-width: 70vw;\n}\n\n.button_orange {\n\tbackground-color: #f7a600;\n\tcolor: white;\n\tborder: none;\n\tpadding: 1vw;\n\tdisplay: inline;\n}\n\n.menuitem {\n\tbackground-color: white;\n\tcolor: #f7a600;\n\tborder: none;\n\ttext-align: center;\n\tborder-bottom: 2px solid white;\n\tfont-weight: 600;\n\tfont-size: 1.2em;\n\tpadding-left: 2vw;\n\tpadding-right: 2vw;\n\tmargin-right: 2vw;\n\tmargin-left: 2vw;\n\tpadding-bottom: 1vw;\n\tmin-width: 13vw;\n}\n\n.menuitem:hover {\n\tborder-bottom: 2px solid #f7a600;\n}\n\n.center {\n\ttext-align: center;\n\tdisplay: inline-block;\n\twidth: 100%;\n}\n\n.menu {\n\twidth: 100%;\n\ttext-align: center;\n\n\tborder-bottom: 2px solid rgb(196, 196, 196);\n}",
