@@ -14,15 +14,18 @@ layout: default
 
 ## Zukünftige Generationen und deren Interessen sind moralisch bedeutsam. Die Menschheit steckt in ihren Kinderschuhen. Die Anzahl in der Zukunft lebender Menschen ist potentiell ungeheuer groß. Unser Handeln heute beeinflusst zukünftige Generationen.
 
+
 ### Abstract/Kurzbeschreibung
 
-Im 21. Jahrhundert und darüber hinaus sieht sich die globalisierte menschliche Gesellschaft zunehmend existentiellen Bedrohungen gegenüber. Um diesen Risiken langfristig zu begegnen, benötigt die Menschheit grundlegende Konzepte, die ihr langfristiges Überleben sicherstellen  und ein nachhaltig gutes Leben für zukünftige Generationen ermöglichen. Longtermism ist ein ethisch motivierter und anwendungsorientierter Ansatz, der sich zum Ziel setzt, eine sichere Basis für den langfristigen Fortbestand der Menschheit zu schaffen. Im Rahmen unseres SmP-Seminars möchten wir uns kritisch mit diesem Ansatz auseinandersetzen und auf wissenschaftlicher Basis zukunftsorientierte Maßnahmen diskutieren. 
+Aus diesen drei Annahmen leitet der sogenannte “Longtermism” seine zentrale moralische These ab: Unser Handeln von heute sollte sich vor allem daran messen, wie es die langfristige Zukunft der Menschheit beeinflussen wird. Im Rahmen unseres SmP-Seminars möchten wir uns kritisch mit diesem Ansatz auseinandersetzen und auf wissenschaftlicher Basis zukunftsorientierte Maßnahmen diskutieren.
 
-Unsere Leitfragen sind dabei:
-- Ist die Idee des Longtermism ein moralisch und empirisch tragbares Normenkonzept bzw. ein anwendungsorientiertes Zukunftsnarrativ?
-- Welche wissenschaftlich stichhaltigen und realisierbaren Maßnahmen können wir nach der Idee des Longtermism für Individuum und Gesellschaft ableiten?
+Unsere Leitfragen sind dabei: 
+
+- Ist die Idee des Longtermism ein moralisch und empirisch tragbares Normenkonzept bzw. ein anwendbares Zukunftsnarrativ?
+- Welche wissenschaftlich stichhaltigen und realisierbaren Maßnahmen können wir von der Idee des Longtermism für Individuum und Gesellschaft ableiten? 
 
 Wir diskutieren diese Fragen sowohl in Plenarpräsentationen und -diskussionen, als auch in Arbeitsgruppen, die sich mit konkreten Zukunftsherausforderungen der Menschheit auseinandersetzen.
+
 
 ### Auf einen Blick
 
@@ -41,14 +44,14 @@ Unser Seminar findet im Rahmen der Reihe "Stipendiat*innen machen Programm" der 
 Weitere Informationen zur Studienstiftung und der Reihe SmP findest du [hier](https://www.studienstiftung.de/stipendiaten/smp/).
 
 ### Zielgruppe und Anmeldung
-Das Seminar ist interdisziplinär ausgerichtet und offen für Studierende sowie Alumni:ae und Externe aller Fachbereiche unabhängig von Fachsemester oder Berufserfahrung. Die Anmeldung ist bis zum 15.07.2022 um 23:59 Uhr über folgendes Formular möglich: 
+Das Seminar ist interdisziplinär ausgerichtet und offen für Studierende sowie Alumni:ae und Externe aller Fachbereiche unabhängig von Fachsemester oder Berufserfahrung. Die Anmeldung ist bis zum 15.07.2022 um 23:59 Uhr über folgendes Formular möglich.
 
 <div class="center"><button class="button_orange" onclick="window.location='https://forms.gle/Ggu1Do9M42nZZ3ru5'">> Link zur Anmeldung</button></div>
 
-Die Auswahl erfolgt auf Basis des kurzen Motivationsschreibens und der AG-Zusammensetzung. Die AG-Auswahl muss nicht zwingendermaßen dem fachlichen Fokus eures Studiums nahekommen, bitte geht in diesem Fall aber in etwa 2 Sätzen eures Motivationsschreibens darauf ein, warum ihr an eurer AG-Auswahl interessiert seid. Zu- und Absagen werden ab dem 18.07.2022 verschickt, danach erfolgt die Überweisung der Eigenbeteiligung.
+Die Auswahl erfolgt auf Basis des kurzen Motivationsschreibens und der AG-Zusammensetzung. Die AG-Auswahl muss nicht zwingendermaßen dem fachlichen Fokus Eures Studiums nahekommen, bitte geht in diesem Fall aber in etwa 2-3 Sätzen Eures Motivationsschreibens darauf ein, warum Ihr an Eurer AG-Auswahl interessiert seid. Zu- und Absagen werden ab dem 18.07.2022 verschickt, danach erfolgt die Überweisung der Eigenbeteiligung.
 
 ### Unterkunft und Verpflegung
-Das Seminar findet in der Jungendherberge Frankfurt statt und die Teilnehmenden werden in Vierbettzimmern untergebracht. Bei der Anmeldung können Präferenzen zur Belegung der Zimmer angegeben werden. Der Veranstaltungsort ist barrierefrei. 
+Das Seminar findet in der Jugendherberge Frankfurt statt und die Teilnehmenden werden in Vierbettzimmern untergebracht. Bei der Anmeldung können Präferenzen zur Belegung der Zimmer angegeben werden. Der Veranstaltungsort ist barrierefrei. 
 
 Die Verpflegung besteht aus Abendessen am Anreisetag, Frühstück, Mittagessen, Abendessen und Kaffee/Kuchen am Samstag, sowie Frühstück und Lunchpakete am Abreisetag. Vegetarisches und veganes Essen steht zur Verfügung (dies bitte bei der Anmeldung angeben).
 
@@ -56,10 +59,12 @@ Die Verpflegung besteht aus Abendessen am Anreisetag, Frühstück, Mittagessen, 
 Die Adresse der Jugendherberge lautet: 
 
 Deutschherrnufer 12
+
 60594 Frankfurt am Main
 
 Die Studienstiftung zahlt allen Geförderten einen pauschalen Zuschuss gemäß der aktuellen Fahrtkostentabelle. Die Fahrtkosten von Alumni:ae und Externen können leider nicht bezuschusst werden. Bei der Buchung der An-/Abreise sollten Modalitäten mit möglichst geringen Fahrtkosten gewählt werden.
-Teilnehmende an Veranstaltungen der Studienstiftung – und damit auch an „gemeinsam“-Veranstaltungen innerhalb Deutschlands – haben außerdem die Möglichkeit mit einem Veranstaltungsticket der Deutschen Bahn zu den Veranstaltungen anzureisen. Genaue Informationen und den Link zur Buchung gibt es unter: [https://www.studienstiftung.de/anreise/](https://www.studienstiftung.de/anreise/)
+Teilnehmende an Veranstaltungen der Studienstiftung – und damit auch an „gemeinsam“-Veranstaltungen innerhalb Deutschlands – haben außerdem die Möglichkeit mit einem Veranstaltungsticket der Deutschen Bahn zu den Veranstaltungen anzureisen. Genaue Informationen und den Link zur Buchung gibt es unter: 
+ [https://www.studienstiftung.de/anreise/](https://www.studienstiftung.de/anreise/)
 
 
 ## Kleingedrucktes
@@ -77,18 +82,21 @@ Im Falle einer Absage kann die Eigenbeteiligung nur dann vollständig erstattet 
 Die Erstattung der Anreise erfolgt gemäß der Fahrtkostentabelle der Studienstiftung. Wir möchten Euch darum bitten, euch frühzeitig um eine kostengünstige Anreise zu kümmern.
 
 ### Hygienekonzept
-Mir ist das Hygienekonzept [(https://www.studienstiftung.de/kalender/informationen/hygienekonzept/)](https://www.studienstiftung.de/kalender/informationen/hygienekonzept/) für die Durchführung von Präsenzveranstaltungen der Studienstiftung bekannt und ich verpflichte mich zur Einhaltung der Vorgaben. Ich bin zudem mit ergänzenden kurzfristigen Maßnahmen einverstanden, die aufgrund der dynamischen Pandemieentwicklungen notwendig sind.“
+Bei Präsenzveranstaltung der Studienstiftung gilt das aktuelle Hygienekonzept [(https://www.studienstiftung.de/kalender/informationen/hygienekonzept/)](https://www.studienstiftung.de/kalender/informationen/hygienekonzept/) zu dessen Einhaltung ihr Euch bei der Anmeldung verpflichtet. 
+
 
 ### Fotos während der Veranstaltung
 Im Rahmen von Veranstaltungen können Fotos oder Filmaufnahmen angefertigt werden, die gegebenenfalls zur Dokumentation der Veranstaltung und zum Zwecke der Presse- und Öffentlichkeitsarbeit genutzt werden. Die Studienstiftung wird die Fotos von der Veranstaltung auf Grundlage ihres „berechtigten Interesses“ (Art. 6, Abs. 1, lit. f DSGVO) unentgeltlich, umfassend, dauerhaft und räumlich unbeschränkt nutzen und eventuell auch an Dritte zur Nutzung weitergeben. Sie können gegen diese Nutzung gemäß Artikel 21 DSGVO Widerspruch einlegen. Weitere Informationen zum Datenschutz finden Sie auf unserer Homepage unter [www.studienstiftung.de/datenschutz/](www.studienstiftung.de/datenschutz/).
 Bitte beachten Sie auch selbst das Recht am eigenen Bild im Umgang mit anderen Stipendiatinnen und Stipendiaten. Wenn Sie vorhaben, eigene Bilder von Veranstaltungen öffentlich zugänglich zu machen (z. B. über Facebook oder Instagram), müssen Sie sich der Zustimmung der abgebildeten Personen versichern.
 
 ### Datenschutz
-Mit Ihrer Anmeldung erklären Sie sich einverstanden, dass Ihre Anmeldedaten von dem Organisationsteam eingesehen und ausschließlich im Rahmen der Veranstaltung verarbeitet werden können. Im Rahmen der Veranstaltung werden Teilnahmelisten erstellt, die folgende Angaben enthalten:
-- (a) Name, Geschlecht, Geburtsdatum (nur für das Tagungshaus)
-- (b) Name, Studienfach, Hochschulort (für die Teilnahmeliste)
-- (c) Name, Studienfach, Hochschulort, Workshopwahl (für die DozentInnen)
+Mit Eurer Anmeldung erklärt Ihr Euch damit einverstanden, dass Eure Anmeldedaten von dem Organisationsteam eingesehen und ausschließlich im Rahmen der Veranstaltung verarbeitet werden können. Im Rahmen der Veranstaltung werden Teilnahmelisten erstellt, die folgende Angaben enthalten:
 
-Diese Listen werden (a) dem Tagungshaus zur Verfügung gestellt bzw. (b) auf der Veranstaltung für alle Teilnehmenden frei einsehbar sein und c) bei Bedarf den DozentInnen der Veranstaltung ausschließlich zum Zweck der Veranstaltung zur Verfügung gestellt. Es findet keine Weitergabe der Daten an Dritte statt
+- a. Name, Geschlecht, Geburtsdatum (nur für das Tagungshaus)
+- b. Name, Studienfach, Hochschulort (für die Teilnahmeliste)
+- c. Name, Studienfach, Hochschulort, Workshopwahl (für die Dozierenden)
+
+Diese Listen werden (a) dem Tagungshaus zur Verfügung gestellt bzw. (b) auf der Veranstaltung für alle Teilnehmenden frei einsehbar sein und c) bei Bedarf den Dozierendender Veranstaltung ausschließlich zum Zweck der Veranstaltung zur Verfügung gestellt. Es findet keine Weitergabe der Daten an Dritte statt.
+
 
 

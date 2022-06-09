@@ -24,8 +24,8 @@ Mit dem teils moderierten Networking Event möchten wir den Teilnehmenden eine f
 Den inhaltlichen Abschluss unseres Seminars bildet ein gemeinsames Plenum, in der die Ergebnisse jeder Arbeitsgruppe innerhalb von etwa 25 Minuten vorgestellt und im Plenum in einer Fragerunde diskutiert werden. Dieses Abschlussplenum baut auch auf der interdisziplinären Networking Session auf und bildet, mit Blick auf die Leitfragen unseres Seminars, den Rahmen für einen möglichst vielseitige und kritische Betrachtung des Longtermism. 
 
 
-<img alt="SMP Programm 2022" src="https://user-images.githubusercontent.com/105549086/169690056-c1b6ae1e-39c8-43e2-805a-400d2611c65e.png">
-<img alt="Erklärung Programm SMP 2022" src="https://user-images.githubusercontent.com/105549086/169690103-c61b2d63-93c0-4daf-a5de-f99abe10a474.png">
+<img alt="SMP Programm 2022" src="./images/SMP_Programm_2022.png">
+<img alt="Erklärung Programm SMP 2022" src="./images/Legende.png">
 
 
 **Ort**: DJH Jugendherberge Frankfurt; Deutschherrnufer 12 60594 Frankfurt
