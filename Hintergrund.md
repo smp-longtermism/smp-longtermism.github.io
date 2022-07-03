@@ -17,11 +17,12 @@ Vertreter:innen des Longtermism  identifizieren eine Reihe von Problemfeldern, w
 
 Dem Konzept des Longtermism steht eine allgemeine Kritik an utilitaristischen Ansätzen gegenüber, die die Grundlage des Longtermism ausmachen: Unter anderem vernachlässige die Maximierung des Gesamtnutzens der Menschheit die Würde und die Rechte von Individuen, die Art der utilitaristischen Güterbewertung sei undifferenziert und das Individuum werde außerdem stark überfordert (Balfour, 2021; Torres, 2021). Zum anderen sind jegliche Projektionen von dynamischen Systemen mit Unsicherheiten behaftet und deterministischen Horizonten unterlegen. Somit sei die praktische Anwendbarkeit des Longtermism vor allem auf langen Zeitskalen unklar, denn das hochkomplexe gekoppelte System aus Sozioökonomik und Erdsystem limitiere wissenschaftlich Projektionen auf einen gewissen Zeit- und Möglichkeitsraum.
 
+
 ## Leitfragen der Veranstaltung
 - **Ist die Idee des Longtermism ein moralisch und empirisch tragbares Normenkonzept bzw. ein anwendbares Zukunftsnarrativ?**
 - **Welche wissenschaftlich stichhaltigen und realisierbaren Maßnahmen können wir nach der Idee des Longtermism für Individuum und Gesellschaft ableiten?**
 
-In unserem Seminar werden wir Lösungsansätze für existentielle Zukunftsfragen der Menschheit aus longtermistischer Perspektive kennenlernen und diskutieren. Diese ergeben sich aus der Anwendung der Normen des Longtermism auf konkrete Fachbereiche. Wir werden uns ebenso kritisch mit dem Longtermism auseinandersetzen, sowohl aus philosophischer als auch aus empirischer Perspektive. Im Vorfeld des Seminars stellen wir Literatur zur Einführung in das Thema zur Verfügung. Die fachlichen AGs werden nach individueller Absprache mit den Dozierenden vorbereitet, z.B. durch die Vorbereitung einer Paperdiskussion. Die entsprechen Unterlagen werden nach Vergabe der AG-Plätze verschickt.
+In unserem Seminar werden wir Lösungsansätze für existentielle Zukunftsfragen der Menschheit aus longtermistischer Perspektive kennenlernen und diskutieren. Diese ergeben sich aus der Anwendung der Normen des Longtermism auf konkrete Fachbereiche. Wir werden uns ebenso kritisch mit dem Longtermism auseinandersetzen, sowohl aus philosophischer als auch aus empirischer Perspektive. Im Vorfeld des Seminars stellen wir Literatur zur Einführung in das Thema zur Verfügung. Die fachlichen AGs werden nach individueller Absprache mit den Dozierenden vorbereitet, z.B. durch die Vorbereitung einer Paperdiskussion. Die entsprechen Unterlagen werden nach Vergabe der AG-Plätze verschickt
 
 
 ### Weiterführende Ressourcen/Referenzen

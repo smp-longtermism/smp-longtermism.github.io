@@ -48,7 +48,7 @@ Das Seminar ist interdisziplinär ausgerichtet und offen für Studierende sowie 
 
 <div class="center"><button class="button_orange" onclick="window.location='https://forms.gle/Ggu1Do9M42nZZ3ru5'">> Link zur Anmeldung</button></div>
 
-Die Auswahl erfolgt auf Basis des kurzen Motivationsschreibens und der AG-Zusammensetzung. Die AG-Auswahl muss nicht zwingendermaßen dem fachlichen Fokus Eures Studiums nahekommen, bitte geht in diesem Fall aber in etwa 2-3 Sätzen Eures Motivationsschreibens darauf ein, warum Ihr an Eurer AG-Auswahl interessiert seid. Zu- und Absagen werden ab dem 18.07.2022 verschickt, danach erfolgt die Überweisung der Eigenbeteiligung.
+Die Auswahl erfolgt auf Basis des kurzen Motivationsschreibens und der AG-Zusammensetzung. Eure AG-Auswahl muss nicht dem fachlichen Fokus Eures Studiums nahekommen. Bitte geht aber kurz in Eurem Motivationsschreibens darauf ein, warum Ihr an Eurer AG-Auswahl interessiert seid. Bei der AG-Einteilung versuchen wir natürlich, soweit möglich, Eure AG-Priorisierung zu berücksichtigen. Bitte beachtet jedoch, dass wir nicht garantieren können, Eure AG-Priorisierung vollständig zu erfüllen. Zu- und Absagen werden ab dem 18.07.2022 verschickt, danach erfolgt die Überweisung der Eigenbeteiligung.
 
 ### Unterkunft und Verpflegung
 Das Seminar findet in der Jugendherberge Frankfurt statt und die Teilnehmenden werden in Vierbettzimmern untergebracht. Bei der Anmeldung können Präferenzen zur Belegung der Zimmer angegeben werden. Der Veranstaltungsort ist barrierefrei. 
