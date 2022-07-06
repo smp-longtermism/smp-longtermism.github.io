@@ -36,7 +36,7 @@ Wir diskutieren diese Fragen sowohl in Plenarpräsentationen und -diskussionen, 
 | **Eigenbeteiligung:** | Zwischen 30 und 100 €, siehe [Programm](Programm.html)|
 | **Organisationsteam:** | Moritz Adam (Heidelberg), Roman Doll (Heidelberg), Tanja He (Heidelberg), Peter Schuh (Mannheim), Ricarda Seitz (Mannheim) und Roman Wetenkamp (Mannheim) |
 | **Kontakt:** | smp . longterm . future (at) gmail . com |
-| **Anmeldung:** | <button class="button_orange" onclick="window.location='https://forms.gle/Ggu1Do9M42nZZ3ru5'">> Link zur Anmeldung</button> |
+| **Anmeldung:** | <button class="button_orange" onclick="window.location='https://forms.gle/1avkD3Whic7yQp9LA'">> Link zur Anmeldung</button> |
 
 ### Veranstaltungsformat
 Unser Seminar findet im Rahmen der Reihe "Stipendiat*innen machen Programm" der Studienstiftung des deutschen Volkes statt.
@@ -46,7 +46,7 @@ Weitere Informationen zur Studienstiftung und der Reihe SmP findest du [hier](ht
 ### Zielgruppe und Anmeldung
 Das Seminar ist interdisziplinär ausgerichtet und offen für Studierende sowie Alumni:ae und Externe aller Fachbereiche unabhängig von Fachsemester oder Berufserfahrung. Die Anmeldung ist bis zum 15.07.2022 um 23:59 Uhr über folgendes Formular möglich.
 
-<div class="center"><button class="button_orange" onclick="window.location='https://forms.gle/Ggu1Do9M42nZZ3ru5'">> Link zur Anmeldung</button></div>
+<div class="center"><button class="button_orange" onclick="window.location='https://forms.gle/1avkD3Whic7yQp9LA'">> Link zur Anmeldung</button></div>
 
 Die Auswahl erfolgt auf Basis des kurzen Motivationsschreibens und der AG-Zusammensetzung. Eure AG-Auswahl muss nicht dem fachlichen Fokus Eures Studiums nahekommen. Bitte geht aber kurz in Eurem Motivationsschreibens darauf ein, warum Ihr an Eurer AG-Auswahl interessiert seid. Bei der AG-Einteilung versuchen wir natürlich, soweit möglich, Eure AG-Priorisierung zu berücksichtigen. Bitte beachtet jedoch, dass wir nicht garantieren können, Eure AG-Priorisierung vollständig zu erfüllen. Zu- und Absagen werden ab dem 18.07.2022 verschickt, danach erfolgt die Überweisung der Eigenbeteiligung.
 
