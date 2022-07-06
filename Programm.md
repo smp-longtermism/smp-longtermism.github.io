@@ -14,7 +14,7 @@ Das Seminar wird am Wochenende des 26.-28.08.2022 in Frankfurt am Main, genauer 
 
 Unser Seminar gliedert sich sich in fachliche Arbeitsgruppenarbeit und disziplinenübergreifende Plenarveranstaltungen (siehe Tabellarischer Programmablauf unten). Der Großteil der inhaltlichen Arbeit wird in sechs verschiedenen Arbeitsgruppen stattfinden (siehe AG-Beschreibungen unten). Die AG-Zusammensetzung baut auf einem Rotationsprinzip auf. Das bedeutet, dass Ihr im Laufe des Seminars drei der sechs fachlichen Themenblöcke durchlaufen werdet.
 
-Die AG-Phasen werden durch einen Plenarvortrag und eine Podiumsdiskussion eingerahmt, welche in die Grundideen des Longtermism einführen und zur Diskussion über die Limitierungen dieses Konzepts anregen. Ein Vortrag am Freitagabend wird mit den Grundlagen des Longtermism vertraut machen Speaker:in. Darauf aufbauend erforschen die AG-Phasen am Samstag und Sonntag explizite wissenschaftliche Anwendbarkeit des Longtermism. 
+Die AG-Phasen werden durch einen Plenarvortrag und eine Podiumsdiskussion eingerahmt, welche in die Grundideen des Longtermism einführen und zur Diskussion über die Limitierungen dieses Konzepts anregen. Ein Vortrag am Freitagabend wird mit den Grundlagen des Longtermism vertraut machen Speaker:in. Darauf aufbauend erforschen die AG-Phasen am Samstag und Sonntag die explizite wissenschaftliche Anwendbarkeit des Longtermism. 
 
 Am Samstagnachmittag habt Ihr im Rahmen eines Networking-Events die Möglichkeit Euch auch AG-übergreifend zu vernetzen und über die fachlichen Themen hinweg mit anderen Teilnehmenden und Dozierenden  individuell zu diskutieren.
 
