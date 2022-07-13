@@ -44,7 +44,7 @@ Unser Seminar findet im Rahmen der Reihe "Stipendiat*innen machen Programm" der 
 Weitere Informationen zur Studienstiftung und der Reihe SmP findest du [hier](https://www.studienstiftung.de/stipendiaten/smp/).
 
 ### Zielgruppe und Anmeldung
-Das Seminar ist interdisziplinär ausgerichtet und offen für Studierende sowie Alumni:ae und Externe aller Fachbereiche unabhängig von Fachsemester oder Berufserfahrung. Die Anmeldung ist bis zum 15.07.2022 um 23:59 Uhr über folgendes Formular möglich.
+Das Seminar ist interdisziplinär ausgerichtet und offen für Studierende sowie Alumni:ae und Externe aller Fachbereiche unabhängig von Fachsemester oder Berufserfahrung. Die Anmeldung ist bis zum 22.07.2022 um 23:59 Uhr über folgendes Formular möglich.
 
 <div class="center"><button class="button_orange" onclick="window.location='https://forms.gle/1avkD3Whic7yQp9LA'">> Link zur Anmeldung</button></div>
 
