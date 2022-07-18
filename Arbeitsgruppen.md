@@ -30,7 +30,7 @@ Künstliche Intelligenz hat sich längst von einem abstrakten Forschungsgegensta
 
 **AG-Leitung: Lennart Heim, M.Sc. (Centre for the Governance of AI)**
 
-Lennart Heim ist seit Dezember 2021 Research Affiliate am Centre for Governance of AI (GovAI) sowie bei Fathom Radiant. Seit April diesen Jahres ist er zusätzlich als AI Compute Consultant bei der OECD.AI tätig. Lennart Heim hat Electrical Engineering, Information Technology and Computer Engineering im Bachelor und Master an der RWTH Aachen studiert und seine Masterarbeit an der ETH Zürich zum Thema Computer Engineering geschrieben. Unter anderem war er beim Center for Security and Emerging Technology, Center for Emerging Risk Research, Swiss Existential Risk Initiative sowie der Stanford Existential Risk Initiative tätig.
+Lennart Heim beschäftigt sich mit Compute Governance, einschließlich der Rolle des Computings in der KI-Produktion, der Compute-Lieferkette, dem Vorhersagen wachsender Technologie-Trends und der Sicherheit von KI-Systemen. Er ist Mitglied der OECD.AI Expertengruppe zu KI Computing und Klima. Lennart Heim hat Computer Engineering studiert und zuletzt als Berater der OECD und Researcher an der ETH Zürich gearbeitet.
 
 
 ## Arbeitsgruppe 4: Governance
